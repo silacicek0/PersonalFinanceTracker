@@ -1,0 +1,11 @@
+# Build and temporary files
+build/
+nbproject/private/
+dist/
+
+# NetBeans specific files
+build.xml
+
+# System files
+.DS_Store
+Thumbs.db
